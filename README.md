@@ -91,3 +91,18 @@ More details forthcoming
 In this wave you'll connect the Backbone web application you created in the previous wave to an existing Rails API that has standard RESTful CRUD routes.
 
 - Read the documentation for the [Tic-Tac-Toe API](https://github.com/Ada-c6/tic-tac-toe-api)
+- You are welcome to deploy the API to Heroku, or to run it locally (the later is probably easier)
+
+Primary Requirements:
+Related to existing functionality:
+
+- Automatically save games when they are completed
+
+New functionality:
+
+- The user should be able to see a list of all previous games
+- The user should be able to delete an old game
+
+Optional Requirements:
+
+- The user should be able to load up an old game into the UI
